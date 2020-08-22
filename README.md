@@ -1,1 +1,1 @@
-# Multiple-Linear-Regression
+# Machine Learning Projects
